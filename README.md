@@ -2,7 +2,7 @@
 
 >The final project for the lyceum course on creating websites
 
-URL: [\*click\*](polyaxd.fun)
+URL: [\*click\*](https://polyaxd.fun)
 
 ## Technologies:
 
