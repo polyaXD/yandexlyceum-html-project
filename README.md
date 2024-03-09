@@ -13,7 +13,7 @@ URL: [\*click\*](https://polyaxd.fun)
 ## Screenshots:
 
 Page
-![Screen1](https://i.imgur.com/AyGFOu1.png)
+![Screen1](https://imgur.com/a/kK5w9zM)
 
 
 
