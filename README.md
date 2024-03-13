@@ -13,7 +13,7 @@ URL: [\*click\*](https://polyaxd.fun)
 ## Screenshots:
 
 Page
-![Screen1](https://imgur.com/a/kK5w9zM)
+![Screen1](https://github.com/polyaXD/yandexlyceum-html-project/blob/main/src/img/Screenshot_188.png)
 
 
 
